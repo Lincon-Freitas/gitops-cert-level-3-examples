@@ -6,4 +6,4 @@ appVersion: "1.0.0"
 dependencies:
 - name: mariadb
   version: 23.2.4
-  repository: https://charts.bitnami.com/bitnami
+  repository: oci://registry-1.docker.io
